@@ -1,0 +1,13 @@
+SetAngle(0)
+Rotate(0,40,1)
+Rotate(40,80,0.0733)
+Rotate(80,100,1)
+Rotate(100,140,0.0733)
+Rotate(140,160,1)
+Rotate(160,200,0.0733)
+Rotate(200,220,1)
+Rotate(220,260,0.0733)
+Rotate(260,280,1)
+Rotate(280,320,0.0733)
+Rotate(320,0,1)
+
